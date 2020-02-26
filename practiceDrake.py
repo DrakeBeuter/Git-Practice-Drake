@@ -1,5 +1,8 @@
+
 #partner 1 name: Drake
 #partner 2 name: Nic
+###############################################################################
+#This function does things
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
     pass
@@ -13,5 +16,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
 
